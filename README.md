@@ -1,7 +1,5 @@
 # Asynchronous FIFO (Verilog/SystemVerilog)
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Async__FIFO-blue?style=flat&logo=github)](https://github.com/woongchantonylee/Async_FIFO)
-
 ## 📌 Project Overview
 This project implements an **asynchronous FIFO** (First-In First-Out) buffer in synthesizable Verilog/SystemVerilog, along with a **self-checking testbench**.  
 The FIFO has:
@@ -85,4 +83,4 @@ STATUS: PASS
 ```
 
 ## 📈 Waveform
-![FIFO Waveform](./docs/fifo_wave.png)
+![FIFO Waveform](./vcd.png)
