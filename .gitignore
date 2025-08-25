@@ -1,0 +1,7 @@
+*.vcd
+*.wlf
+work/
+transcript
+*.bak
+*~
+.DS_Store
